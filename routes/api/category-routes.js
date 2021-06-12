@@ -46,7 +46,7 @@ router.post('/', async (req, res) => {
   // create a new category
 });
 
-router.put('/:id', async (req, res) => {
+router.put('/:id', (req, res) => {
   // update a category by its `id` value
   try {
     Category.update(
