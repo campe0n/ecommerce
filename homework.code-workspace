@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\classrepo"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\hw2_portfolio"
+		},
+		{
+			"path": "..\\readme_generator"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hw2_portfolio"
+	}
+}
